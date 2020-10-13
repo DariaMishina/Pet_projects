@@ -1,5 +1,5 @@
 # Pet_projects
-here I will store my pet projects
+here I store my pet projects
 
 [Bank deposit prediction model](https://github.com/DariaMishina/Pet_projects/tree/master/Bank_deposit)
 
