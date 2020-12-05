@@ -1,5 +1,5 @@
-# Pet_projects
-here I store my pet projects
+# Pet_projects & test cases
+here I store my pet projects and test cases
 
 [Bank deposit prediction model](https://github.com/DariaMishina/Pet_projects/tree/master/Bank_deposit)
 
@@ -8,3 +8,7 @@ Creation of model, where the target is monthly changes in the volume of the mark
 [Hypothesis](https://github.com/DariaMishina/Pet_projects/tree/master/hypothesis) 
 
 testing the hypothesis using data about A/B testing results (z-test, T-test etc)
+
+[Credit scoring model](https://github.com/DariaMishina/Pet_projects/tree/master/Scoring)
+
+Scoring model for predicting the default of a payday company client (XGBoost, GridSearch, Hyperopt)
