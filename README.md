@@ -1,4 +1,4 @@
-# Pet_projects & test cases
+# Pet projects & test cases
 here I store my pet projects and test cases
 
 [Bank deposit prediction model](https://github.com/DariaMishina/Pet_projects/tree/master/Bank_deposit)
