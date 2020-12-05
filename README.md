@@ -11,4 +11,4 @@ testing the hypothesis using data about A/B testing results (z-test, T-test etc)
 
 [Credit scoring model](https://github.com/DariaMishina/Pet_projects/tree/master/Scoring)
 
-Scoring model for predicting the default of a payday company client (XGBoost, GridSearch, Hyperopt)
+Scoring model for predicting the default of a payday loan client (XGBoost, GridSearch, Hyperopt)
