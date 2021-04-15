@@ -12,3 +12,7 @@ testing the hypothesis using data about A/B testing results (z-test, T-test etc)
 [Credit scoring model](https://github.com/DariaMishina/Pet_projects/tree/master/Scoring)
 
 Scoring model for predicting the default of a payday loan client (XGBoost, GridSearch, Hyperopt)
+
+[CLTV_prediction](https://github.com/DariaMishina/Pet_projects/tree/master/CLTV_prediction)
+
+Prediction of customer life-time values (XGBoost, CatBoost, Optuna, shap)
