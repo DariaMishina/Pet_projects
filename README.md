@@ -16,3 +16,7 @@ Scoring model for predicting the default of a payday loan client (XGBoost, GridS
 [CLTV_prediction](https://github.com/DariaMishina/Pet_projects/tree/master/CLTV_prediction)
 
 Prediction of customer life-time values (XGBoost, CatBoost, Optuna, shap)
+
+[Anomaly detection](https://github.com/DariaMishina/Pet_projects/tree/master/Anomaly_detection) & [survival analysis](https://github.com/DariaMishina/Pet_projects/tree/master/Survival_analisys)
+
+A ccident prediction (Imbalanced dataset problem, pycox)
