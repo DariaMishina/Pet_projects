@@ -20,3 +20,11 @@ Prediction of customer life-time values (XGBoost, CatBoost, Optuna, shap)
 [Anomaly detection](https://github.com/DariaMishina/Pet_projects/tree/master/Anomaly_detection) & [survival analysis](https://github.com/DariaMishina/Pet_projects/tree/master/Survival_analisys)
 
 A ccident prediction (Imbalanced dataset problem, pycox)
+
+Some [data](https://github.com/DariaMishina/Pet_projects/tree/master/Data_analisys) & [hr analysis](https://github.com/DariaMishina/Pet_projects/tree/master/HR_analisys)
+
+Salary & bonus investigation, price &goods comparison (EDA, CatBoost, shap etc)
+
+[Yandex&SF_hackathon](https://github.com/DariaMishina/Pet_projects/tree/master/Yandex%26SF_hackathon)
+
+Optimization of the online food delivery service
