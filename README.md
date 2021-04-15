@@ -19,7 +19,7 @@ Prediction of customer life-time values (XGBoost, CatBoost, Optuna, shap)
 
 [Anomaly detection](https://github.com/DariaMishina/Pet_projects/tree/master/Anomaly_detection) & [survival analysis](https://github.com/DariaMishina/Pet_projects/tree/master/Survival_analisys)
 
-A ccident prediction (Imbalanced dataset problem, pycox)
+Accident prediction (Imbalanced dataset problem, pycox)
 
 Some [data](https://github.com/DariaMishina/Pet_projects/tree/master/Data_analisys) & [hr analysis](https://github.com/DariaMishina/Pet_projects/tree/master/HR_analisys)
 
